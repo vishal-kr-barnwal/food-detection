@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>698767.jpg</filename>
+	<path>/my-project-name/698767.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion_rings</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>57</ymin>
+			<xmax>491</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

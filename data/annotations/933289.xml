@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>933289.jpg</filename>
+	<path>/my-project-name/933289.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>spring_rolls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>61</ymin>
+			<xmax>452</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

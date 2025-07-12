@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>336447.jpg</filename>
+	<path>/my-project-name/336447.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>chocolate_cake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>97</ymin>
+			<xmax>315</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
